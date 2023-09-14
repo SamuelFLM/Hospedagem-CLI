@@ -1,21 +1,26 @@
 <img src="Image/logo.png" alt="logo_samuelflm">
 
 
-# Serialização no Csharp/.NET
-
-<p>A serialização JSON em C# é o processo de transformar objetos em C# em uma representação de string no formato JSON. Isso é útil quando você precisa enviar dados pela rede ou armazená-los de forma persistente.
-
-Aqui está um exemplo simples de como você pode serializar um objeto em C# usando a biblioteca Newtonsoft.Json:
-</p>
-
-<img src="Image/code.png" alt="logo_samuelflm">
+# Sistema de Hospedagem no Csharp/.NET
 
 <p>
-Neste exemplo, criamos uma classe Produtos com quatro propriedades, Id, Nome Produto, Preço e Data de venda. Em seguida, criamos uma instância dessa classe e a serializamos para JSON usando o método JsonConvert.SerializeObject(). O resultado será uma string JSON que representa o objeto exemplo.
+Este é um sistema simples e eficiente para gerenciar as reservas de um hotel. Ele permite que você crie hóspedes, suítes e faça reservas.
+
+<b>Funcionalidades</b>
+
+<b>Criação de Hóspedes:</b> Você pode criar hóspedes com o nome desejado.
+<b>Criação de Suítes:</b> Você pode criar suítes com o tipo desejado, capacidade e valor diário.
+<b>Reservas:</b> Você pode fazer reservas para um número específico de dias, cadastrar hóspedes na reserva e cadastrar a suíte na reserva.
+
 </p>
 
-<img src="Image/json.png" alt="logo_samuelflm">
+<img src="Image/desafio.png" alt="logo_samuelflm">
 
 <p>
-Por favor, note que este é um exemplo básico. A serialização JSON em C# pode se tornar muito mais complexa quando você está lidando com tipos de dados mais complexos e estruturas de dados aninhadas.
+Este exemplo cria dois hóspedes, uma suíte e faz uma reserva para 10 dias. Em seguida, imprime várias informações sobre a reserva.
+
+Esperamos que este sistema possa ajudá-lo a gerenciar as reservas do seu hotel de maneira mais eficiente!
 </p>
+
+<img src="Image/result.png" alt="logo_samuelflm">
+
