@@ -1,0 +1,17 @@
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\bin\Debug\net7.0\Hospedagem.exe
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\bin\Debug\net7.0\Hospedagem.deps.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\bin\Debug\net7.0\Hospedagem.runtimeconfig.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\bin\Debug\net7.0\Hospedagem.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\bin\Debug\net7.0\Hospedagem.pdb
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\obj\Debug\net7.0\Hospedagem.csproj.AssemblyReference.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\obj\Debug\net7.0\Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\obj\Debug\net7.0\Hospedagem.AssemblyInfoInputs.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\obj\Debug\net7.0\Hospedagem.AssemblyInfo.cs
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\obj\Debug\net7.0\Hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\obj\Debug\net7.0\Hospedagem.csproj.CopyComplete
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\obj\Debug\net7.0\Hospedagem.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\obj\Debug\net7.0\refint\Hospedagem.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\obj\Debug\net7.0\Hospedagem.pdb
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\obj\Debug\net7.0\Hospedagem.genruntimeconfig.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Hospedagem\obj\Debug\net7.0\ref\Hospedagem.dll
